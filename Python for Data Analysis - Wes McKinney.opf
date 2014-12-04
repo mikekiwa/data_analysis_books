@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c438df73-a6f7-4645-9041-e7614e2464d7</dc:identifier>
+        <dc:title>Python for Data Analysis</dc:title>
+        <dc:creator opf:file-as="McKinney, Wes" opf:role="aut">Wes McKinney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.43) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-07T20:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Python for Data Analysis&lt;/em&gt; is concerned with the nuts and bolts of manipulating, processing, cleaning, and crunching data in Python. It is also a practical, modern introduction to scientific computing in Python, tailored for data-intensive applications. This is a book about the parts of the Python language and libraries you’ll need to effectively solve a broad set of data analysis problems. This book is not an exposition on analytical methods using Python as the implementation language.&lt;/p&gt;&lt;p&gt;Written by Wes McKinney, the main author of the pandas library, this hands-on book is packed with practical cases studies. It’s ideal for analysts new to Python and for Python programmers new to scientific computing.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use the IPython interactive shell as your primary development environment &lt;/li&gt;&lt;li&gt;Learn basic and advanced NumPy (Numerical Python) features &lt;/li&gt;&lt;li&gt;Get started with data analysis tools in the pandas library &lt;/li&gt;&lt;li&gt;Use high-performance tools to load, clean, transform, merge, and reshape data &lt;/li&gt;&lt;li&gt;Create scatter plots and static or interactive visualizations with matplotlib &lt;/li&gt;&lt;li&gt;Apply the pandas groupby facility to slice, dice, and summarize datasets &lt;/li&gt;&lt;li&gt;Measure data by points in time, whether it’s specific instances, fixed periods, or intervals &lt;/li&gt;&lt;li&gt;Learn how to solve problems in web analytics, social sciences, finance, and economics, through detailed examples &lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Wes McKinney is the main author of pandas, the popular open source Python library for data analysis. Wes is an active speaker and participant in the Python and open source communities. He worked as a quantitative analyst at AQR Capital Management before founding an enterprise data analysis company, Lambda Foundry, in 2012. He graduated from MIT with an S.B. in Mathematics.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1449319793</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">v3n4_AK8vu0C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781449323615</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <meta content="{&quot;Wes McKinney&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Data Analysis" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="8.0" name="calibre:rating"/>
+        <meta content="2013-04-26T17:33:10+00:00" name="calibre:timestamp"/>
+        <meta content="Python for Data Analysis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Python for Data Analysis - Wes McKinney.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
